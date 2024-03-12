@@ -168,7 +168,7 @@ div.image {
   border-top: 5px solid #ad5168;
   border-bottom: 5px solid #ad5168;
   height: 280px;
-  background-image: url(image/hxh.jpg);
+  background-image: url(../image/hxh.jpg);
   background-size: cover;
   background-position: 0 -30px;
 }
